@@ -26,4 +26,6 @@ public class Calc {
 		
 	}
 //That is my change remotely using terminal.
+	
+	//This change is done on github.com for pull operation demo.
 }
